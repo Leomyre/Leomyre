@@ -6,6 +6,7 @@ import AnimatedBackground from "@/components/animated-background"
 import { LanguageProvider } from "../context/language-context"
 import "./globals.css"
 import type React from "react" // Import React
+import { Analytics } from "@vercel/analytics/next"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -27,6 +28,7 @@ export default function RootLayout({
           <LanguageProvider>
             <AnimatedBackground />
             {children}
+            <Analytics />
           </LanguageProvider>
         </ThemeProvider>
       </body>
