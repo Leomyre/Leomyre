@@ -274,7 +274,7 @@ export default function Page() {
                 title="Chika-chat"
                 description="Chika-chat is a lightweight and ephemeral messaging web application. It is secure, easy to use, and designed for seamless communication."
                 image="/placeholder.svg?height=400&width=600"
-                link="https://github.com/Leomyre/Chika"
+                link="https://chika-chat.onrender.com"
                 tags={["Django, HTML, CSS, JavaScript", "TailwindCSS"]}
                 translationKey="chika"
                 t={t}

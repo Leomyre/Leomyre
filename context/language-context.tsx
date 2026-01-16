@@ -42,7 +42,7 @@ const translations = {
       "Chika-chat is a lightweight and ephemeral messaging web application. It is secure, easy to use, and designed for seamless communication.",
     "project.event.title": "Event Platform",
     "project.event.description": "This platform allows organizers to announce and manage the events they organize.",
-    "project.viewOnGithub": "View on GitHub",
+    "project.viewOnGithub": "View",
 
     // Traductions pour les caractéristiques
     "character.dynamic.title": "Dynamic",
@@ -89,7 +89,7 @@ const translations = {
     "project.event.title": "Plateforme d'Événements",
     "project.event.description":
       "Cette plateforme permet aux organisateurs d'annoncer et de gérer les événements qu'ils organisent.",
-    "project.viewOnGithub": "Voir sur GitHub",
+    "project.viewOnGithub": "Regarder",
 
     // Traductions pour les caractéristiques
     "character.dynamic.title": "Dynamique",
